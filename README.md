@@ -4,7 +4,7 @@
 ## <div align="center">White Night </div>  
   
 
-● Current Project: WebViewer for SZTUer-WinUI3  
+● 👨‍🦽 Current Project: WebViewer for SZTUer-WinUI3  
   
 
 ● 🔭 [My Blog](https://white-night.club/)  
@@ -18,7 +18,10 @@
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=WhiteNight-SZTU&&style=flat-square)  
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=WhiteNight-SZTU&&style=flat-square" alt="Profile views" />
+  </p>
+  
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
