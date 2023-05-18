@@ -4,7 +4,7 @@
 ## <div align="center">White Night </div>  
   
 
-● 👨‍🦽 Current Project: WebViewer for SZTUer-WinUI3  
+● 👨‍🦽 Current Project: (Haven't decided yet)
   
 
 ● 🔭 [My Blog](https://white-night.club/)  
