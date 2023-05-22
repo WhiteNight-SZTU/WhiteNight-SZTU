@@ -4,7 +4,7 @@
 ## <div align="center">White Night </div>  
   
 
-● 👨‍🦽 Current Project: VisualRedis-WinUI3
+● 👨‍🦽 Current Project: SimpleRedis-WinUI3
   
 
 ● 🔭 [My Blog](https://white-night.club/)  
