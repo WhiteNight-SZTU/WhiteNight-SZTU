@@ -4,7 +4,7 @@
 ## <div align="center">White Night </div>  
   
 
-● 👨‍🦽 Current Project: SimpleRedis-WinUI3
+● 👨‍🦽 Current Project: SZTU Desktop Helper
   
 
 ● 🔭 [My Blog](https://white-night.club/)  
