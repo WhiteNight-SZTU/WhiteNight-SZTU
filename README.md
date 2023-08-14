@@ -4,7 +4,7 @@
 ## <div align="center">White Night </div>  
   
 
-● 👨‍🦽 Current Project: SZTU Desktop Helper
+● 👨‍🦽 Current Project: 
   
 
 ● 🔭 [My Blog](https://white-night.club/)  
