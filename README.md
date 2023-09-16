@@ -30,7 +30,8 @@
 ### Familiar  
 <div align="center">  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/desktop/wpf/xaml/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xaml.png" alt="XAML" height="50" /></a>  
+<a href="https://docs.microsoft.com/en-us/dotnet/desktop/wpf/xaml/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xaml.png" alt="XAML" height="50" /></a> 
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 </div>
 </td><td valign="top" width="33%">
 
@@ -54,7 +55,6 @@
 <div align="center">  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 </div>
 
