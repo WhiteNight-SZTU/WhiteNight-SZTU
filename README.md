@@ -4,7 +4,7 @@
 ## <div align="center">White Night </div>  
   
 
-● 👨‍🦽 Current Project: 
+● 👨‍🦽 Current Project: WhiteNight的记事本
   
 
 ● 🔭 [My Blog--WhiteNight的博客](https://white-night.club/)  
