@@ -1,8 +1,8 @@
-<img src="http://white-night.club/picture/community_image_1423127909.png" align="left" height="250" width="" />  
+
   
 
 ## <div align="center">White Night </div>  
-  
+
 ● 🔭 [My Blog--WhiteNight的博客](https://white-night.club/)  
   
 
